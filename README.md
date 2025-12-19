@@ -26,13 +26,13 @@ In this project, I will be performing data inspection, Exploratory Data Analysis
 5. The prediction result is displayed to the user through the interface.
 
 ### Technologies Used:
--Python
--Pandas
--Numpy
--Scikit-learn
--Gradio
--GoogleColab
--Huggingface
+- Python
+- Pandas
+- Numpy
+- Scikit-learn
+- Gradio
+- GoogleColab
+- Huggingface
 
 ### How To Run the Project:
 1. click on the link https://johnaboyeji-heart-disease-predictor.hf.space
