@@ -7,3 +7,29 @@ Recognizing this gap, I was motivated to build a predictive model that can quick
 This project aims to develop models that predict whether an individual is at risk of having a heart disease using the different features from a health research dataset.
 The type of Machine learning task I will engage with  is a classification task.
 In this project, I will be performing data inspection, Exploratory Data Analysis, data preprocessing, feature engineering, model development, hyperparameter tuning, and model evaluation.
+
+### Target Users:
+1. Patients
+2. Medical Practitioners
+3. Health Researchers
+
+### Features:
+- A user-friendly web interface
+- Heart disease risk prediction with level of severity
+- fast, reliable and accurate Model
+
+### Architecture:
+1. The user enters patient health information such as age, chest pain type, blood pressure, cholesterol level, and other clinical features.
+2. The system validates and preprocesses the input data.
+3. The trained machine learning model analyzes the processed data.
+4. The model predicts the presence or absence of heart disease.
+5. The prediction result is displayed to the user through the interface.
+
+### Technologies Used:
+-Python
+-Pandas
+-Numpy
+-Scikit-learn
+-Gradio
+-GoogleColab
+-Huggingface
