@@ -1,8 +1,8 @@
 # 3MTT_Deeptech_Capstone_Project-Heart_Disease_Predictor-Model
-###Problem Statement:
+### Problem Statement:
 Many people are unaware of their risk of heart disease, and the reality is that this silent condition often progresses unnoticed. Symptoms can be subtle or mistaken for minor issues, making early detection challenging. Even when patients visit healthcare providers, the process of diagnosing heart disease can be slow and complex. Doctors rely on a combination of tests, evaluations, and specialist consultations, which may take weeks or months before a clear picture emerges. This delay can mean that interventions come too late, increasing the risk of serious complications or even sudden cardiac events. Recognizing this gap, I was motivated to build a predictive model that can quickly assess an individual’s risk of heart disease. By analyzing key health indicators efficiently, the model empowers both patients and doctors to identify potential risks early, enabling timely lifestyle adjustments or medical interventions that could save lives.
 
-###Solution:
+### Solution:
 Recognizing this gap, I was motivated to build a predictive model that can quickly assess an individual’s risk of heart disease. By analyzing key health indicators efficiently, the model empowers both patients and doctors to identify potential risks early, enabling timely lifestyle adjustments or medical interventions that could save lives.
 This project aims to develop models that predict whether an individual is at risk of having a heart disease using the different features from a health research dataset.
 The type of Machine learning task I will engage with  is a classification task.
