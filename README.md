@@ -29,6 +29,8 @@ In this project, I will be performing data inspection, Exploratory Data Analysis
 - Python
 - Pandas
 - Numpy
+- matplotlib
+- seaborn
 - Scikit-learn
 - joblib
 - Gradio
