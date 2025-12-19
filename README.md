@@ -22,7 +22,7 @@ In this project, I will be performing data inspection, Exploratory Data Analysis
 1. The user enters patient health information such as age, chest pain type, blood pressure, cholesterol level, and other clinical features.
 2. The system validates and preprocesses the input data.
 3. The trained machine learning model analyzes the processed data.
-4. The model predicts the presence or absence of heart disease.
+4. The model predicts the presence(with level of severity) or absence of heart disease.
 5. The prediction result is displayed to the user through the interface.
 
 ### Technologies Used:
