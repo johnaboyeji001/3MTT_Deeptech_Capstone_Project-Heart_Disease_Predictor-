@@ -1,4 +1,8 @@
-scikit-learn==1.6.1
-pandas
-streamlit
+Python
+Pandas
+Numpy
+matplotlib
+seaborn
+Scikit-learn
 joblib
+Gradio
