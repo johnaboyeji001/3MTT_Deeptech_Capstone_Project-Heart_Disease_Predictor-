@@ -33,3 +33,10 @@ In this project, I will be performing data inspection, Exploratory Data Analysis
 -Gradio
 -GoogleColab
 -Huggingface
+
+### How To Run the Project:
+1. click on the link https://johnaboyeji-heart-disease-predictor.hf.space
+2. enter the requested data
+3. click "predict heart disease risk"
+4. Then you have the result
+
