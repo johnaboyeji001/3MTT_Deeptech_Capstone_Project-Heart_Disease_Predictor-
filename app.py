@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load trained pipeline
-model = joblib.load("XGB_heart_disease_predictor_model_1.joblib")
+model = joblib.load("rfc_heart_disease_predictor_model.joblib")
 
 # Class explanations
 CLASS_EXPLANATION = {
