@@ -30,6 +30,7 @@ In this project, I will be performing data inspection, Exploratory Data Analysis
 - Pandas
 - Numpy
 - Scikit-learn
+- joblib
 - Gradio
 - GoogleColab
 - Huggingface
